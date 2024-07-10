@@ -1,4 +1,4 @@
-# Setting Up Primero Development Environment
+# Setting Up Primero Locally
 The instructions in this guide assume that you are running MacOS, if you are running another OS you will need to adapt the instructions accordingly.
 
 ## Cloning the Primero Repository
