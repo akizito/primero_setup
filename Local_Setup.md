@@ -125,6 +125,17 @@ Execute the following while still on the project root to install Primero's ruby 
 bundle install
 npm ci
 ```
+## Troubleshooting bundle installation
+If Rails is not already installed on your computer, run the following commands.
+
+```bash
+sudo gem install rails rspec
+```
+Some of the bundles in the repo may be outdated. Please update the following bundles using commands below:
+
+```bash
+gem install ruby-prof
+```
 
 You now need to create the two Postgres databases (the default database, and a database used for unit testing).
 
