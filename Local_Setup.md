@@ -184,7 +184,7 @@ In the other window, run the following command, which will run the rails server 
 rails s
 ```
 
-Visit http://localhost:3000/ in your browser, and you should see the following page. Note that it can take a while to load for the very first time, as the frontend application bundle needs to be compiled. Because of this, it is easiest to leave the `npm` process running in the background if you are only making changes to the backend code.
+Visit http://localhost:3000/ in your browser. Note that it can take a while to load for the very first time, as the frontend application bundle needs to be compiled.
 
 Log in using the default credentials `primero/primer0!`.
 
